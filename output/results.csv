@@ -1,0 +1,6 @@
+Algorithm,Instance,Makespan
+fifo,ta01,1486
+lifo,ta01,9873
+mwkr,ta01,1664
+lwkr,ta01,9873
+random,ta01,2632

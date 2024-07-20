@@ -1,0 +1,9 @@
+name: job-shop-scheduling
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=24.0
+  - python=3.10.9
+  - matplotlib=3.9.1
+  - numpy=2.0.0
